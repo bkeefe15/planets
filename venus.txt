@@ -1,1 +1,4 @@
-This is the file about venus that I'm supposed to write something foolish in. Something about using it as a base with my friends.
+This is the file about venus that I'm supposed to write something foolish in.
+Something about using it as a base with my friends.
+These are a few more lines that I'm adding to venus.
+
